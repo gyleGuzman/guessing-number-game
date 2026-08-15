@@ -1,1 +1,1 @@
-# guessing-number-game
+try guessing what the exact correct number is
